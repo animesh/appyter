@@ -1,3 +1,9 @@
+## Run
+```bash
+pip3 install --upgrade git+https://github.com/animesh/appyter.git #forked
+appyter phosphoSites.ipynb --port=8080 --host=massturbinator.com
+```
+
 # Appyter
 This module enables you to turn your jupyter notebook into a jinja2 template-driven web application. Or just parse for other purposes.
 
